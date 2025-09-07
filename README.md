@@ -19,4 +19,4 @@ The code demonstrates a step-by-step approach to constructing and running a basi
 
 ## Acknowledgements
 
-This learning project was developed with the invaluable guidance and support of **Alex Aklson** (linkedin: [linkedin.com/in/aklson](linkedin.com/in/aklson)). His expertise and tutoring were instrumental in understanding the concepts and implementing the code.
+This learning project was developed with the invaluable guidance and support of **Alex Aklson** (linkedin: [linkedin.com/in/aklson](https://www.linkedin.com/in/aklson)). His expertise and tutoring were instrumental in understanding the concepts and implementing the code.
